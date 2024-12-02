@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فوائد الفواكه</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 1.5rem 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #4caf50;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+            font-size: 0.9rem;
+            margin-top: 20px;
+            border-top: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>فوائد الفواكه</h1>
+    </header>
+    <main>
+        <section>
+            <h2>لماذا نأكل الفواكه؟</h2>
+            <p>الفواكه مليئة بالعناصر الغذائية الضرورية، مثل الفيتامينات والمعادن والألياف، وتوفر فوائد صحية كثيرة للجسم والعقل.</p>
+        </section>
+        <section>
+            <h2>فوائد أشهر الفواكه:</h2>
+            <ul>
+                <li><strong>التفاح:</strong> يساعد في تحسين صحة القلب وتنظيم مستويات السكر.</li>
+                <li><strong>الموز:</strong> يوفر طاقة سريعة وغني بالبوتاسيوم المفيد للعضلات.</li>
+                <li><strong>البرتقال:</strong> يقوي جهاز المناعة بفضل فيتامين C.</li>
+                <li><strong>العنب:</strong> يحتوي على مضادات أكسدة تحمي الخلايا من التلف.</li>
+                <li><strong>الفراولة:</strong> تحسن صحة الجلد وتحتوي على فيتامينات متنوعة.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 - موقع فوائد الفواكه</p>
+    </footer>
+</body>
+</html>
